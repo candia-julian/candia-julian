@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @candia-julian
+- 👋 Hi, I’m @candia-julian, an Earth Science and Computer Science student
 - 👀 I’m interested in Geoscience, Data Science, Back-End, travel and beer of course!
-- 🌱 I’m currently learning Python but in short-term I've starting to study JS probably (Back-end and Geospatial things)
+- 🌱 I’m currently learning Python but in short-term I've starting to study JS probably (Back-end and Geospatial stuff)
 - 📫 How to reach me: candiajuliane@gmail.com
 
 <!---
